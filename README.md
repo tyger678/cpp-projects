@@ -1,4 +1,4 @@
-# C++ Projects
+# Simple C++ Projects
 
 A collection of my C++ learning projects.  
 I will update this repository with new projects as I go.
